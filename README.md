@@ -3,7 +3,7 @@ Spreadsheet
 
 Ryan Lukas
 
-CS 3500 - Algorithms and Data Structures - Fall 2017
+CS 3500 - Software Practice - Fall 2018
 
 *C#*
 
