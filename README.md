@@ -1,4 +1,4 @@
-Spreadsheet
+Spreadsheet App - (excel equivalent functionality)
 ==============
 
 Ryan Lukas
